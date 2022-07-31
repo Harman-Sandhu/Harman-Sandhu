@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="localhost:3333">
+<img src="http://localhost:3333">
 <!--
 **Harman-Sandhu/Harman-Sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
