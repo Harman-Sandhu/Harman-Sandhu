@@ -1,6 +1,4 @@
-<div style="border-radius:50px; overflow:hidden;" >
 <img src="https://api.harmansandhu.tech"/>
-</div>
 
 <!--
 **Harman-Sandhu/Harman-Sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
