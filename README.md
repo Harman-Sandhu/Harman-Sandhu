@@ -1,4 +1,4 @@
-<img src="https://api.harmansandhu.tech/?username=harman-sandhu"/>
+<img src="https://api.harmansandhu.tech/?username=harman-sandhu&bg=white&fill=black"/>
 
 <!--
 **Harman-Sandhu/Harman-Sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
